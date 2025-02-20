@@ -1,0 +1,1576 @@
+
+
+
+
+
+
+
+
+PA-18-794: AHRQ Small Research Grant Program (R03)
+
+
+
+
+
+
+
+
+
+
+
+Department of Health and Human Services
+Part 1. Overview Information
+
+Participating Organization(s)
+
+Agency for Healthcare Research and Quality (AHRQ) 
+NOTE:  The policies, guidelines, terms, and conditions
+      stated in this announcement may differ from those used by the NIH.  Where
+      this Funding Opportunity Announcement (FOA) provides specific written
+      guidance that may differ from the general guidance provided in the grant application
+      form, please follow the instructions given in this FOA.
+
+
+
+
+Components
+    of Participating Organizations
+
+Agency for Healthcare Research and Quality (AHRQ) 
+
+
+
+
+Funding Opportunity Title
+
+AHRQ Small Research Grant Program (R03)
+
+
+
+
+Activity Code
+
+R03 Small
+      Research Grant Program
+
+
+
+
+Announcement Type
+
+Re-Issue of PA-15-147 
+
+
+
+
+
+Related Notices
+
+January 11, 2023 - AHRQ Announces Interest in Research on Climate Change and Healthcare. See Notice NOT-HS-23-006
+June 07, 2022 - Notice to Extend PA-18-794. See Notice NOT-HS-22-016
+March 16, 2022 - AHRQ Announces Interest in Primary Care Research. See Notice NOT-HS-22-011
+February 17, 2022 - AHRQ Announces Interest in Health Services Research on Health System and Healthcare Professional Responsiveness to COVID-19. See Notice NOT-HS-22-010
+October 28, 2021 - Reminder: FORMS-G Grant Application Forms & Instructions Must be Used for Due Dates On or After January 25, 2022 - New Grant Application Instructions Now Available. See Notice NOT-OD-22-018.
+
+August 5, 2021 - New NIH "FORMS-G" Grant Application Forms and Instructions Coming for Due Dates on or after January 25, 2022. 
+See Notice NOT-OD-21-169.
+
+August 5, 2021 - Update: Notification of Upcoming Change in Federal-wide Unique Entity Identifier Requirements. 
+See Notice NOT-OD-21-170.
+
+April 20, 2021 - Expanding Requirement for eRA Commons IDs to All Senior/Key Personnel. 
+See Notice NOT-OD-21-109.
+
+April 29, 2021 - Special Emphasis Notice (SEN): AHRQ Announces Interest in Health Services Research to Advance Health Equity. See Notice NOT-HS-21-014.
+April 27, 2021 - Notice to Extend PA-18-794. See Notice NOT-HS-21-013.
+March 02, 2021 - Special Emphasis Notice (SEN): AHRQ Announces Interest in Health Services Research to Address Substance Use Disorder Epidemic. See Notice NOT-HS-21-010.
+March 10, 2020 - Reminder: FORMS-F Grant Application Forms & Instructions Must be Used for Due Dates On or After May 25, 2020- New Grant Application Instructions Now Available. See Notice NOT-OD-20-077. 
+January 10, 2020 - AHRQ Guide Notice on Implementation of the Use of a Single Institutional Review Board (IRB) for Cooperative Research at 45 CFR 46.114 (b). See Notice NOT-HS-20-005.
+November 22, 2019 - New NIH "FORMS-F" Grant Application Forms and Instructions Coming for Due Dates on or after May 25, 2020. See Notice NOT-OD-20-026.
+August 23, 2019 - 
+Clarifying Competing Application Instructions and Notice of Publication of Frequently Asked Questions (FAQs) Regarding Proposed Human Fetal Tissue Research. See Notice 
+NOT-OD-19-137. 
+
+July 26, 2019 - 
+Changes to NIH Requirements Regarding Proposed Human Fetal Tissue Research. See Notice NOT-OD-19-128.
+
+April 23, 2019 - Notice of Clarification: Application Types for PA-18-794,  AHRQ Small Research Grant Program (R03). See Notice NOT-HS-19-014.
+March 20, 2019 - NIH & AHRQ Announce Upcoming Updates to Application Instructions and Review Criteria for Research Grant Applications. See Notice NOT-OD-18-228.
+February 25, 2019 - Special Emphasis Notice (SEN): Health Services Research Priorities for Achieving a High Value Healthcare System. See Notice NOT-HS-19-011.
+January 11, 2019 - AHRQ Implementation of Final Rule on the Federal Policy for the Protection of Human Subjects (Common Rule). See Notice NOT-HS-19-008.
+January 11, 2019 - AHRQ Announces Change in Grant Recipient Purchasing of Identifiable CMS Data, effective FY2019. See Notice NOT-HS-19-007.
+September 17, 2018  - Notice of Clarification: Research Strategy page limit for PA-18-794. See Notice NOT-HS-18-016.August 02, 2018 - Special Emphasis Notice (SEN): AHRQ Announces Interest in Health Services Research to Address the Opioids Crisis. See Notice NOT-HS-18-015. 
+
+
+
+
+Funding Opportunity Announcement (FOA) Number
+
+PA-18-794
+
+
+
+
+Companion Funding Opportunity
+
+None 
+
+
+
+
+Number of
+    Applications
+
+See Section III. 3.
+      Additional Information on Eligibility. 
+
+
+
+
+Catalog of Federal Domestic Assistance (CFDA) Number(s) 
+
+   93.226
+
+
+
+
+Funding Opportunity Purpose
+
+This FOA encourages Small Research Grant (R03) applications,
+      and expresses AHRQ priority areas of interest for ongoing small research
+      projects. The R03 grant mechanism supports different types of health services
+      research projects including pilot and feasibility studies; secondary analysis
+      of existing data; small, self-contained research projects; development of
+      research methodology; and development of new research technology.
+
+
+
+Key Dates
+
+Posted Date
+
+May 21, 2018
+
+
+
+
+Open Date (Earliest Submission Date)
+
+September 17, 2018 
+
+
+
+
+Letter of Intent Due Date(s)
+
+Not Applicable. 
+
+
+
+
+Application Due Date(s)
+
+Standard
+      dates apply), by 5:00 PM local time of applicant organization. 
+Applicants are encouraged to apply early to allow adequate
+      time to make any corrections to errors found in the application during the
+      submission process by the due date.
+
+
+
+
+AIDS Application Due Date(s)
+
+Not applicable.
+
+
+
+
+Scientific Merit Review 
+
+Generally, four months after receipt date.
+
+
+
+
+Advisory Council Review
+
+Not applicable. 
+
+
+
+
+Earliest Start Date
+
+Generally, four months after peer review date.
+
+
+
+
+Expiration Date
+
+New Date July 8, 2023 per issuance of NOT-HS-22-016. (Original Expiration Date: July 7, 2022)   
+
+
+
+
+Due Dates for E.O. 12372 
+
+Not Applicable
+
+
+
+Required
+  Application Instructions
+It is critical that applicants follow the Research (R) Instructions
+  in the SF424
+  (R&R) Application Guide, except where instructed to do otherwise (in
+  this FOA or in a Notice from the NIH
+  Guide for Grants and Contracts). Conformance to all requirements (both
+  in the Application Guide and the FOA) is required and strictly enforced. Applicants
+  must read and follow all application instructions in the Application Guide as
+  well as any program-specific instructions noted in Section IV, and follow the AHRQ Grants
+  Policy and Guidance found on the AHRQ website at http://www.ahrq.gov/funding/policies/foaguidance/index.html.
+  When the program-specific instructions deviate from those in the Application
+  Guide, follow the program-specific instructions. 
+Applications that do not comply with these
+  instructions may be delayed or not accepted for review.
+
+
+Table of Contents
+Part 1. Overview Information
+Part 2. Full Text of the Announcement
+Section
+  I. Funding Opportunity Description
+Section II. Award Information
+Section III. Eligibility Information
+Section IV. Application and Submission
+  Information
+Section V. Application Review Information
+Section VI. Award Administration Information
+Section VII. Agency Contacts
+Section VIII. Other Information
+Part 2.
+  Full Text of Announcement
+Section I. Funding Opportunity Description
+Scope of this FOA:
+Small research (R03) grants provide flexibility for
+  initiating studies which are generally for preliminary or short-term
+  projects.  These grants are non-renewable.  Some examples of the
+  types of projects that R03 research supports include:
+
+ Pilot or feasibility studies
+ Secondary analysis of existing data
+ Small, self-contained research projects
+ Development of research methodology
+ Development of new research technology
+
+The AHRQ small grant is a mechanism for supporting discrete,
+  well-defined projects that realistically can be completed within two years (or
+  less) within the budget constraints of the mechanism.  Because the
+  research strategy section of the application is limited to 6 pages, an R03
+  grant application may not contain the same level of detail as that found in an
+  R01 application. Accordingly, appropriate justification for the proposed work
+  can be provided through literature citations, data from other sources, or from
+  investigator-generated data. Preliminary data are not required, particularly in
+  applications proposing pilot or feasibility studies.
+The Small Research Grant (R03) is an award made by AHRQ to an
+  institution/organization to support a discrete health services research
+  project. The R03 research strategy proposed by the applicant
+  institution/organization must be related to the mission and research interests
+  of AHRQ, which are detailed below.  Although the PD/PI is responsible for
+  conducting and supervising the research, the actual applicant is the research
+  institution/organization legally accountable for the performance of the award
+  and the expenditure of funds.
+ AHRQ
+  Mission and Research Areas of Interest:
+The AHRQ mission is to produce evidence to make health care
+  safer, higher quality, more ac­cessible, equitable and affordable, and to work
+  with HHS and other partners to make sure that the evidence is understood and
+  used.  Within this mission, AHRQ’s specific priority areas of focus are:
+
+ Research to improve health care patient safety.
+ Harnessing data and technology to improve health care quality and
+    patient outcomes and to provide a 360-degree view of the patient.
+ Research to increase accessibility and affordability of health
+    care by examining innovative market approaches to care delivery and financing.
+
+Research
+  to Improve Health Care Patient Safety
+Patient safety is defined as the freedom from accidental or
+  preventable injury produced by health care as well as the practices that create
+  a safe environment of care. The ultimate goal of AHRQ-supported Patient Safety
+  research is to improve the safety of health care delivery. Patient safety
+  research initiatives that lead to this goal can be considered in three
+  different stages:
+
+ Identification of risks, hazards, and patient harm.
+ Design, implementation, dissemination and spread, and evaluation
+    of interventions to improve patient safety.
+ Establishment of strategies to sustain patient safety
+    improvements such as just culture, incident/event reporting, measurement,
+    monitoring, and surveillance.
+
+AHRQ's Patient Safety Research Program: (1) identifies
+  specific areas of focus through targeted grant funding announcements (i.e.,
+  Program Announcements, Requests for Applications, and Special Emphasis Notices)
+  and (2) encourages investigators to utilize the Agency's general funding
+  announcements to apply this research framework in response to other patient
+  safety threats and opportunities for improvement.
+The Patient Safety Portfolio will support research projects
+  to create new knowledge by identifying the risks, hazards, and harm encountered
+  by patients as a result of health care. The Portfolio will also support
+  projects that mitigate those risks, hazards, and harm including the design,
+  implementation and evaluation of strategies (patient safety practices) and the
+  adaptation, refinement, and sustainment of those strategies. These initiatives
+  are part of the Agency's overall mission to improve the quality of health care.
+AHRQ encourages an interdisciplinary, systems science
+  patient safety approach. In addition to health services research, perspectives
+  from organizational theory, human factors, industrial engineering, facilities
+  design, education, and other disciplines can be incorporated in research plans.
+Projects may address important topics such as: the
+  surveillance, measurement, detection, and reporting of patient safety events;
+  the impact of human performance, work flow, and working conditions on patient
+  safety; the patients' role and contribution to patient safety; health care
+  safety culture, leadership, communication, teamwork, and simulation; prevention
+  and control of healthcare-associated infections (HAIs); diagnostic safety and
+  quality; the safe use of medical devices and medications, including safely
+  prescribing opioids; the role of Patient Safety Organizations; and the
+  challenges inherent in transitions of care in the same setting and between
+  settings and handoffs between health care providers.
+Research related to the prevention and control of HAIs is an
+  instructive example of AHRQ’s Patient Safety research interests. AHRQ supports
+  research whose short-term or long-term aim is to develop improved methods for
+  preventing HAIs and to develop effective implementation strategies for HAI
+  prevention in all health care settings. Accordingly, AHRQ’s foci of interest in
+  HAI research are the following broad areas:
+
+ Determination of the clinical efficacy and effectiveness of
+    preventive interventions, including unintended adverse consequences.
+ Characterization and assessment of relevant epidemiological
+    aspects of HAIs, including but not limited to patient risk factors, clinical
+    presentation, and sources of antibiotic-resistant organisms involved in the
+    development of HAIs.
+ Demonstration, dissemination, and evaluation of strategies and
+    approaches for prevention and reduction of HAIs.
+ Research regarding adoption and implementation (including
+    sustainment, spread, and scale-up) of evidence-based approaches for prevention
+    of HAIs.
+
+The HAI research portfolio also encompasses generation of
+  knowledge for combating antibiotic resistant bacteria. AHRQ is interested in
+  studies to promote appropriate antibiotic use, reduce the transmission of
+  resistant bacteria, and prevent HAIs in the first place. The last contributes
+  to antibiotic stewardship by avoiding the need for antibiotic therapy and
+  precludes the possibility of a resistant infection.
+Clinical investigations that seek to establish the efficacy
+  or effectiveness of preventive interventions, as noted above, typically involve
+  a comparison of the intervention in question to routine care or, less
+  frequently, to a placebo (when the latter is ethical). Such clinical studies
+  are included in the scope of AHRQ’s HAI research portfolio. The HAI Portfolio
+  does not fund comparisons of two interventions of known efficacy or
+  effectiveness to determine which is more efficacious or effective. Such studies
+  are comparative effectiveness research, which is more appropriately funded by
+  other funding sources.
+The Portfolio supports research in all health care settings
+  including the hospital, long-term care, ambulatory care, home health care,
+  pharmacy, and transitions of care between settings.
+Patient safety research involves many stakeholder groups
+  including patients, families, clinicians, non-clinical health care staff,
+  policymakers, payers, and health care organizations including providers and
+  accreditors, local and State governments, and the Federal Government, Patient
+  Safety Organizations, and many others.
+Projects in this area may also address patient
+  characteristics that might influence the risk of experiencing a patient safety
+  event, for example, attributes of AHRQ's priority populations that can impact
+  patient safety and address strategies to address barriers to safe care.
+Harnessing
+  Data and Technology To Improve Health Care Quality and Patient Outcomes and To
+  Provide a 360-Degree View of the Patient
+AHRQ is interested in research to: advance the methods of
+  evidence synthesis to ensure scientific rigor and unbiased reviews, make
+  evidence-based recommendations on clinical preventive services, conduct
+  research on how health information technology can improve the quality of health
+  care, advance the science of clinical practice improvement, evaluate and
+  support innovative models of practice transformation in primary care and other
+  ambulatory settings, and facilitate communities of learning to promote the
+  implementation of evidence for practice improvement. Further, AHRQ is interested
+  in studying and improving upon the process by which health systems and
+  ambulatory care practices select evidence to implement and how to determine
+  what strategies are used to implement the evidence into everyday practice. The
+  study of implementation strategies and processes is critical because
+  interventions developed in the context of publically funded efficacy and
+  effectiveness trials are rarely scalable without adaptations to specific
+  settings and additional tools and guidance to support uptake and implementation.
+  AHRQ is also interested in research that advances whole-person, 360-degree care
+  especially those with multiple chronic conditions and/or socioeconomic
+  disadvantage. Whole person, 360-degree care is defined as the coordination of
+  health, behavioral health, intellectual/developmental disabilities, and social
+  services in a person-centered manner with the goals of improved health outcomes
+  and more efficient and effective use of resources in the context of people’s
+  lives and the communities they live in. Emphasis is on the orientation of the
+  health care team to consider all domains of a person’s life when assessing and
+  addressing needs. The following lists examples of AHRQ research priorities:
+Improving
+  health care quality outcomes by providing integrated, coordinated whole-person,
+  360-degree care to optimize individual and population health outcomes: 
+
+ Generation of knowledge about how clinical teams can most
+    effectively elicit and use a patient’s values; preferences; and personal,
+    social, and clinical context to formulate and use plans of care in partnership
+    with patients, caregivers, and families. Preferences, values, and context may
+    be specific to the situation and also can change over time. Therefore,
+    proposals that address how the process of care planning and the care plans
+    themselves will identify and respond to the specific and dynamic nature of
+    patients’ circumstances are of interest.
+ Development of information and data to create/foster/support
+    partnerships and linkages between health care and human service systems
+    (community-based organizations and public health) to improve whole-person care.
+    These could be focused on improving care coordination and strengthening care
+    transitions, ensuring that care is fully integrated to support the whole person
+    and family.
+ Improvement of health care quality through the use of information
+    systems and data resources that both provide meaningful clinical decision
+    support to health care professionals and patients and families at the point of
+    care and that capture important actions and outcomes of health care to increase
+    evidence on effective practices and support clinical and organizational
+    improvement.
+ Implementation of clinical prevention guidelines into learning
+    health systems with innovative ways to include patients’ preferences and values
+    in order to empower whole person-centered care.
+ Development and study of models of shared decision making that
+    are tailored to the needs of disadvantaged populations.
+ Development of whole-person care research to improve health and
+    health services efforts in persons with multiple chronic conditions.
+ Development, implementation, and evaluation of models of primary
+    care for individuals with complexity, including multiple chronic conditions,
+    disability, and socioeconomic disadvantage that improve individual and
+    population health while reducing disparities.
+
+Implement
+  research findings in order to accelerate the spread of evidence-based practices
+  by:
+
+ Implementation of evidence-based approaches to identify,
+    understand, and overcome barriers to the adoption, adaptation, integration,
+    scale-up, and sustainability of evidence-based interventions, tools, policies,
+    and guidelines.
+ Research on de-implementation of the use of health system
+    procedures and clinical practices that are ineffective, have been prematurely
+    widely adopted, or are harmful or wasteful.
+ Development of a parsimonious set of meaningful measures to
+    evaluate implementation and impact of whole-person care.
+ Development of innovative ways to use data and health information
+    technology (IT) in primary care practices in order to increase uptake and
+    implementation of preventive services, especially those involving behavioral
+    change (e.g. obesity prevention, substance use prevention).
+ Development of methods underlying the fields of evidence
+    synthesis, stakeholder and patient engagement, decision making, and practice
+    improvement.
+
+Accelerating
+  the ability of health care organizations to evolve as learning health systems
+  that effectively apply data and evidence to improve patient outcomes by:
+
+ Synthesizing, translating, and communicating complex scientific
+    evidence to facilitate informed care planning and health care decision making
+    by patients, families, and health care professionals at the individual level
+    and informed policy decision making at the health system and population level.
+ Discovering, testing, and spreading methods and strategies for
+    health care practice improvement to improve health care quality, including
+    accelerating the sustainable implementation of evidence-based practice. AHRQ
+    has particular interest in practice improvement in primary care and ambulatory
+    settings.
+ Demonstrating the effectiveness of synthesizing, translating, and
+    communicating complex scientific evidence to facilitate informed care planning
+    and health care decision making by patients, families, and health care
+    professionals at the individual level and informed policy decision making at
+    the health system and population level.
+
+Research to Increase Accessibility and Affordability of
+  Health Care by Examining Innovative Market Approaches to Care Delivery and
+  Financing
+Producing evidence that can be used to increase the
+  affordability and efficiency of health care for all Americans is a major AHRQ
+  priority. Potential research areas and questions include but are not limited to
+  the following:
+Reducing
+  Cost Growth: In order to make health care more affordable, we
+  must understand the drivers of those costs and their growth, as well as the
+  relationship between cost and quality.
+Comparing
+  Performance of Systems and Providers: AHRQ is interested in
+  research that will allow comparison of delivery system and provider performance
+  by health care stakeholders such as consumers, providers, payers, insurers, and
+  policymakers.
+Incentives
+  for Improving Performance: Public and private payers have
+  provided a variety of financial and nonfinancial incentives to improve the
+  performance of health care providers and systems. AHRQ is interested in
+  research on the impacts of these changes—both intended and otherwise—as well as
+  how to improve incentive programs.
+Interventions
+  to Improve Performance: While alignment with external
+  incentives is very important, it is the provider or system that implements
+  interventions to increase performance. AHRQ is interested in research on how
+  interventions to improve quality or cost are best implemented within and spread
+  across providers and systems.
+Access to health insurance coverage remains a critical
+  public policy issue. Health insurance helps people get timely access to medical
+  care and protects them against the risk of expensive and unanticipated medical
+  events. Accurate and informed public policy analysis and policy design require
+  precise estimates of the size and composition of the insured and uninsured
+  populations, as well as information on how demographic characteristics,
+  economic factors and health insurance subsidies affect health plan eligibility,
+  decisions to enroll in health insurance plans and trends in health care
+  expenditures and affordability. Evaluation of the equity and stability of the
+  health insurance market requires information on the ease with which health
+  insurance transitions are made and how satisfied individuals are with their
+  plans, as well as the affordability of coverage.
+Understanding how changes in policy affect the evolution of
+  health insurance markets and the health insurance landscape is an important
+  area for study. For example, innovations in health insurance markets, such as
+  the increasing use of high-deductible health plans or changes in the
+  cost-sharing structure of plans, are important developments to be analyzed.
+  Other issues of interest include the relationship between changing health
+  insurance markets and structural changes in the American workplace; analyses to
+  improve our understanding of the impact of health care reform on coverage,
+  access, and affordability; and evaluating the effects of changes in health
+  insurance benefits on consumers' financial burdens and access to care.
+AHRQ is engaged in efforts to provide evidence related to
+  topics such as health insurance coverage, access to care and health care costs.
+  Potential research areas and questions include, but are not limited to:
+
+ What is the impact of Medicaid and private health insurance
+    coverage changes on enrollment, access, health care use and expenditures,
+    health care disparities, affordability and outcomes?
+ What methods are most effective in assisting people to understand
+    health insurance coverage options and to enroll in coverage?
+ How will changes in the demographics of the population affect health
+    care access, coverage decisions, and health care expenditures?
+ What factors affect the decisions that employers and employees
+    make about employer-sponsored coverage, such as those related to plan
+    characteristics, offer, and take-up rates?
+ What is the impact of health IT innovation and health information
+    exchanges on costs?
+
+AHRQ's Interests in Comparative Effectiveness Research
+AHRQ informs the research community of priorities for
+  comparative effectiveness research (CER). CER is research that compares and
+  evaluates the benefits and risks of two or more health care options. CER
+  projects that seek to compare different ways of organizing and delivering
+  health care are a priority for AHRQ. These studies may consider health
+  outcomes, patient and family experience, staff satisfaction, and health care
+  utilization among other research outcomes. CER proposals that seek to compare
+  the clinical effectiveness of specific medications and treatments, diagnostic
+  tools, technologies, procedures, surgeries and other specific preventive,
+  diagnostic, or therapeutic services are not a priority of AHRQ.
+These areas, relevant to Small Research Grant (R03)
+  applications submitted to AHRQ, are also articulated at (http://www.ahrq.gov/funding/policies/foaguidance/index.html). 
+  Applicants may contact a member of AHRQ's program staff if they would like help
+  focusing the research plan based on an understanding of the AHRQ mission and
+  research priorities.  AHRQ staff contacts can be found at http://www.ahrq.gov/funding/priorities-contacts/contacts/index.html.
+Applicants are strongly encouraged to address health
+  services research issues critical to AHRQ priority populations, including:
+  individuals living in inner city and rural (including frontier) areas;
+  low-income and minority groups; women, children, and the elderly; and
+  individuals with special health care needs, including those with disabilities
+  and those who need chronic or end-of-life health care.  
+See Section
+  VIII. Other Information for award authorities and regulations.
+Section II. Award
+  Information
+
+Funding Instrument
+
+Grant: A support mechanism providing money, property, or
+      both to an eligible entity to carry out an approved project or activity. 
+
+
+
+
+Application Types Allowed
+
+New 
+Renewal
+Resubmission
+
+
+The OER
+      Glossary and the SF424 (R&R) Application Guide provide details on
+      these application types.
+
+
+
+
+Clinical Trial?
+
+Optional
+
+
+
+
+Funds Available and Anticipated Number of Awards 
+
+The number of awards is contingent upon AHRQ
+      appropriations and the submission of a sufficient number of meritorious
+      applications.  Future year amounts will depend on funding availability.
+Because the nature and scope of the proposed research will
+      vary from application to application, it is anticipated that the size and
+      duration of each award will also vary.
+
+
+
+
+Award Budget
+Application budgets are limited to $100,000 total costs
+      (including direct and indirect costs) for the entire project period, regardless
+      of the length of the proposed project period.  
+An application with a budget that exceeds $100,000 total
+      costs for the entire project period will not be reviewed 
+Funds may be used only for those expenses that are
+      directly related and necessary to the project and must be expended in
+      compliance with applicable Uniform Administrative Requirements, Cost
+      Principles, and Audit Requirements for HHS Awards (45 CFR Part 75) and the
+      HHS Grants Policy
+      Statement. 
+
+Award Project Period
+
+The scope of the proposed project should determine the
+        project period.  The maximum project period for an application submitted
+        under this FOA is 2 years.
+
+
+
+These projects are authorized by 42 U.S.C. 299a, which
+    provides that AHRQ shall conduct and support research, support demonstration
+    projects, and disseminate information on health care and on systems for the delivery
+    of such care, including activities with respect to the quality, effectiveness,
+    efficiency, appropriateness, and value of health care services.
+All applications submitted and AHRQ grants made in response
+    to this FOA are subject to 45 CFR Part 75 (Uniform Administrative Requirements,
+    Cost Principles and Audit Requirements for HHS Awards; http://www.ecfr.gov/cgi-bin/text-idx?node=pt45.1.75),
+    the HHS Grants Policy Statement (see http://www.ahrq.gov/funding/policies/hhspolicy/index.html),
+    and the terms and conditions set forth in the Notice of Award.
+Section III. Eligibility
+    Information
+1. Eligible Applicants
+Eligible Organizations
+Higher Education Institutions
+
+ Public/State Controlled Institutions of Higher Education 
+ Private Institutions of Higher Education 
+
+The following types of Higher Education Institutions
+    are always encouraged to apply for AHRQ support as Public or Private
+    Institutions of Higher Education: 
+
+ Hispanic-serving Institutions
+ Historically Black Colleges and Universities (HBCUs)
+ Tribally Controlled Colleges and Universities (TCCUs) 
+ Alaska Native and Native Hawaiian Serving Institutions
+ Asian American Native American Pacific Islander Serving
+      Institutions (AANAPISIs)
+
+Nonprofits Other Than Institutions of Higher Education
+
+ Nonprofits with 501(c)(3) IRS Status (Other than Institutions of
+      Higher Education) 
+ Nonprofits without 501(c)(3) IRS Status (Other than Institutions
+      of Higher Education) 
+
+Governments
+
+ State Governments 
+ County Governments
+ City or Township Governments
+ Special District Governments
+ Indian/Native American Tribal Governments (Federally Recognized) 
+ Indian/Native American Tribal Governments (Other than Federally
+      Recognized)
+ Eligible Agencies of the Federal Government
+ U.S. Territory or Possession
+
+Other
+
+ Native American Tribal Organizations (other than Federally
+      recognized tribal governments)
+ Faith-based or Community-based Organizations
+ Regional Organizations
+
+ AHRQ’s authorizing legislation does not allow
+    for-profit organizations to be eligible to lead applications under this
+    research mechanism.  For-profit organizations may participate in projects
+    as members of consortia or as subcontractors only.  Because the purpose of
+    this program is to improve healthcare in the United States, foreign
+    institutions may participate in projects as members of consortia or as
+    subcontractors only.  Applications submitted by for-profit organizations
+    or foreign institutions will not be reviewed.  Organizations described in
+    section 501(c) 4 of the Internal Revenue Code that engage in lobbying are not
+    eligible.
+HHS grants policy requires that the grant recipient perform
+    a substantive role in the conduct of the planned project or program activity
+    and not merely serve as a conduit of funds to another party or parties. If
+    consortium/contractual activities represent a significant portion of the
+    overall project, the applicant must justify why the applicant organization,
+    rather than the party(s) performing this portion of the overall project, should
+    be the grantee and what substantive role the applicant organization will play.
+    Justification can be provided in the Specific Aims or Research Strategy section
+    of the PHS398 Research Plan Component sections of the SF424 (R&R)
+    application.  There is no budget allocation guideline for determining
+    substantial involvement; determination of substantial involvement is based on a
+    review of the primary project activities for which grant support is provided
+    and the organization(s) that will be performing those activities.
+Foreign Institutions
+Non-domestic (non-U.S.) Entities (Foreign Institutions) are
+    not eligible to apply.
+    Non-domestic (non-U.S.) components of U.S. Organizations are not eligible
+    to apply.. 
+Required
+    Registrations
+Applicant
+    Organizations
+Applicant organizations must complete and maintain the
+    following registrations as described in the SF 424 (R&R) Application Guide
+    to be eligible to apply for or receive an award. All registrations must be
+    completed prior to the application being submitted. Registration can take 6
+    weeks or more, so applicants should begin the registration process as soon as
+    possible. 
+
+ Dun and Bradstreet Universal Numbering
+      System (DUNS) - All registrations require that applicants be issued a DUNS
+      number. After obtaining a DUNS number, applicants can begin both SAM and eRA
+      Commons registrations. The same DUNS number must be used for all registrations,
+      as well as on the grant application.
+ System for Award
+      Management (https://www.sam.gov/portal/SAM/#1) (formerly CCR) – Applicants
+      must complete and maintain an active registration, which requires renewal at least
+        annually. The renewal process may require as much time as the
+      initial registration. SAM registration includes the assignment of a Commercial
+      and Government Entity (CAGE) Code for domestic organizations which have not
+      already been assigned a CAGE Code. 
+ eRA
+      Commons - Applicants must have an active DUNS number and SAM registration
+      in order to complete the eRA Commons registration. Organizations can register
+      with the eRA Commons as they are working through their SAM or Grants.gov
+      registration. eRA Commons requires organizations to identify at least one
+      Signing Official (SO) and at least one Program Director/Principal Investigator
+      (PD/PI) account in order to submit an application. 
+ Grants.gov – Applicants must have an active DUNS number and SAM registration in order to
+      complete the Grants.gov registration. 
+
+Program
+    Directors/Principal Investigators (PD(s)/PI(s)) 
+All PD(s)/PI(s) must have an eRA Commons account.
+     PD(s)/PI(s) should work with their organizational officials to either
+    create a new account or to affiliate their existing account with the applicant
+    organization in eRA Commons. If a PD/PI is also the organizational Signing Official,
+    they must have two distinct eRA Commons accounts, one for each role. Obtaining
+    an eRA Commons account can take up to 2 weeks.
+Eligible Individuals (Program Director/Principal
+    Investigator)
+Any individual(s) with the skills, knowledge, and resources
+    necessary to carry out the proposed research as the Program Director(s)/Principal
+    Investigator(s) (PD(s)/PI(s)) is invited to work with his/her organization to
+    develop an application for support. Individuals from underrepresented racial
+    and ethnic groups as well as individuals with disabilities are always
+    encouraged to apply for AHRQ support.
+For institutions/organizations proposing multiple PDs/PIs, visit
+    the Multiple Program Director/Principal Investigator Policy and submission
+    details in the Senior/Key Person Profile (Expanded) Component of the SF424
+    (R&R) Application Guide. See also AHRQ's NOT-HS-16-018 related to Multiple
+    PD/PI via https://grants.nih.gov/grants/guide/notice-files/NOT-HS-16-018.html. 
+2. Cost Sharing
+This FOA does not require cost sharing.
+While there is no cost sharing requirement included in this
+    RFA, AHRQ welcomes applicant institutions, including any collaborating
+    institutions, to devote resources to this effort.  An indication of
+    institutional support from the applicant and its collaborators indicates a
+    greater potential of success and sustainability of the project. Examples
+    of institutional support would include: donated equipment and space,
+    institutional funded staff time and effort, or other resource
+    investments. Applicant institutions should indicate institutional support
+    by outlining the specific contributions to the project and providing assurances
+    that their organization and any collaborators are committed to providing these
+    funds and resources to the project. This information can be included at the end
+    of the budget justification section of the application, but institutional
+    support dollars are not to be shown/included in the detailed budget request.
+3. Additional Information on Eligibility
+Number of Applications
+Applicant organizations may submit more than one application,
+    provided that each application is scientifically distinct. 
+AHRQ will not accept duplicate or highly overlapping
+    applications under review at the same time.  This means that AHRQ will not
+    accept:
+
+ A new (A0) application that is submitted before issuance of the
+      summary statement from the review of an overlapping new (A0) or resubmission
+      (A1) application.
+ A resubmission (A1) application that is submitted before issuance
+      of the summary statement from the review of the previous new (A0) application.
+ An application that has substantial overlap with another
+      application pending appeal of initial peer review (see NOT-OD-14-074).
+
+Section IV. Application and Submission Information
+1. Requesting an
+    Application Package
+Buttons to access the online ASSIST system or to download
+    application forms are available in Part
+    1 of this FOA. See your administrative office for instructions if you plan
+    to use an institutional system-to-system solution.
+2. Content and Form of Application Submission
+It is critical that applicants follow the Research (R) Instructions
+    in the SF424
+    (R&R) Application Guide, including Supplemental
+    Grant Application Instructions except where instructed in this funding
+    opportunity announcement to do otherwise. Conformance to the requirements in
+    the Application Guide is required and strictly enforced. Applications that are
+    out of compliance with these instructions may be delayed or not accepted for
+    review.
+For information on Application Submission and Receipt, visit Frequently
+    Asked Questions – Application Guide, Electronic Submission of Grant
+    Applications.
+Letter of Intent 
+A letter of intent is NOT required for this funding
+    opportunity. 
+Page Limitations
+All page limitations described in the SF424 Application
+    Guide and the Table of
+    Page Limits must be followed. 
+Instructions for Application Submission
+The following section supplements the instructions found in
+    the SF424 (R&R) Application Guide and should be used for preparing an
+    application to this FOA.
+SF424(R&R) Cover
+All instructions in the SF424 (R&R) Application Guide
+    must be followed.  
+SF424(R&R) Project/Performance Site Locations
+All instructions in the SF424 (R&R) Application Guide
+    must be followed.  
+SF424(R&R) Other Project Information
+All instructions in the SF424 (R&R) Application Guide
+    must be followed.  
+SF424(R&R) Senior/Key Person Profile 
+All instructions in the SF424 (R&R) Application Guide
+    must be followed.  
+R&R or Modular Budget
+All instructions in the SF424 (R&R) Application Guide
+    must be followed. 
+Budget Component:  Special Instructions for AHRQ
+    applications
+AHRQ is not using the Modular Grant Application and Award
+    Process.   Applicants applying for funding from AHRQ should ignore
+    application instructions concerning the Modular Grant Application and Award
+    Process, and prepare applications using instructions for the Research and
+    Related Budget Components of the SF 424 (R&R).  Applications submitted
+    in the Modular format will not be reviewed.
+R&R Subaward Budget
+All instructions in the SF424 (R&R) Application Guide
+    must be followed. 
+PHS 398 Cover Page Supplement
+All instructions in the SF424 (R&R) Application Guide
+    must be followed.  
+PHS 398 Research Plan
+All instructions in the SF424 (R&R) Application Guide
+    must be followed, with the following additional instructions:  
+
+ Introduction (required for a resubmission or revision
+      application) is limited to 1 page. 
+ Specific Aims is limited to 1 page. 
+ Research Strategy section, including tables, graphs, figures,
+      diagrams, and charts, is limited to 12 pages. 
+
+Resource
+    Sharing Plan: Individuals are required to comply with the
+    instructions for the Resource Sharing Plans as provided in the SF424 (R&R)
+    Application Guide, with the following modification:
+
+ Generally, Resource Sharing Plans are expected, but they are not
+      applicable for this FOA.
+
+Appendix: 
+Only limited Appendix materials are allowed. Follow all
+    instructions for the Appendix as described in the SF424 (R&R) Application
+    Guide. 
+Do not use the Appendix to circumvent page limits. Follow
+    all instructions for the Appendix as described in the SF424 (R&R)
+    Application Guide.  See NIH/NIOSH/AHRQ New Policy Appendix Guide located
+    at NOT-OD-18-126
+PHS Human Subjects and Clinical Trials Information
+When involving human subjects research, clinical research,
+    and/or clinical trials (and when applicable, clinical trials research
+    experience) follow all instructions for the PHS Human Subjects and Clinical
+    Trials Information form in the SF424 (R&R) Application Guide, with the
+    following additional instructions:
+If you answered "Yes" to the question "Are
+    Human Subjects Involved?" on the R&R Other Project Information form,
+    you must include at least one human subjects study record using the Study Record: PHS Human Subjects and
+    Clinical Trials Information form or Delayed Onset Study record. 
+Study
+    Record: PHS Human Subjects and Clinical Trials Information
+All instructions in the SF424 (R&R) Application Guide
+    must be followed.  
+Delayed
+    Onset Study
+All instructions in the SF424 (R&R) Application Guide
+    must be followed.  
+PHS Assignment Request Form
+All instructions in the SF424 (R&R) Application Guide
+    must be followed.  
+3. Unique Entity Identifier
+    and System for Award Management (SAM)
+See Part 2. Section III.1 for information regarding the
+    requirement for obtaining a unique entity identifier and for completing and
+    maintaining active registrations in System for Award Management (SAM), NATO
+    Commercial and Government Entity (NCAGE) Code (if applicable), eRA Commons, and
+    Grants.gov
+4. Submission Dates and
+    Times
+Part I. Overview Information contains information about Key Dates and times. Applicants are encouraged to
+    submit applications before the due date to ensure they have time to make any
+    application corrections that might be necessary for successful submission. When
+    a submission date falls on a weekend or Federal
+    holiday, the application deadline is automatically extended to the next
+    business day.
+Organizations must submit applications to Grants.gov (the online portal to find and apply for grants
+    across all Federal agencies). Applicants must then complete the submission
+    process by tracking the status of the application in the eRA Commons, NIH’s electronic system, for grants
+    administration. AHRQ and Grants.gov systems check the application against many
+    of the application instructions upon submission. Errors must be corrected and a
+    changed/corrected application must be submitted to Grants.gov on or before the application
+    due date and time.  If a Changed/Corrected application is submitted after
+    the deadline, the application will be considered late.
+Applicants
+    are responsible for viewing their application before the due date in the eRA
+    Commons to ensure accurate and successful submission. 
+Information on the submission process and a definition of
+    on-time submission are provided in the SF424 (R&R) Application Guide.
+5. Intergovernmental Review
+    (E.O. 12372)
+This initiative is not subject to intergovernmental
+    review. 
+6. Funding Restrictions
+For efficient grant administration, AHRQ grant
+    administration procedures will be used and conducted in accordance with the
+    terms and conditions, cost principles, and other considerations described in
+    the HHS Grants Policy Statement. The Grants Policy Statement can be found at http://www.hhs.gov/sites/default/files/grants/grants/policies-regulations/hhsgps107.pdf.
+Pre-award costs are allowable. A grantee may, at its own
+    risk and without AHRQ prior approval, incur obligations and expenditures to
+    cover costs up to 90 days before the beginning date of the initial budget
+    period of a new award if such costs are necessary to conduct the project and
+    would be allowable under the grant, if awarded, without AHRQ prior approval. If
+    specific expenditures would otherwise require prior approval, the grantee must
+    obtain AHRQ approval before incurring the cost. AHRQ prior approval is required
+    for any costs to be incurred more than 90 days before the beginning date of the
+    initial budget period of a new award.
+The incurrence of pre-award costs in anticipation of a
+    competing or non-competing award imposes no obligation on AHRQ either to make
+    the award or to increase the amount of the approved budget if an award is made
+    for less than the amount anticipated and is inadequate to cover the pre-award
+    costs incurred. AHRQ expects the grantee to be fully aware that pre-award costs
+    result in borrowing against future support and that such borrowing must not
+    impair the grantee's ability to accomplish the project objectives in the
+    approved time frame or in any way adversely affect the conduct of the project. 
+7. Other Submission
+    Requirements and Information
+Applications must be submitted electronically following the
+    instructions described in the SF424 (R&R) Application Guide.  Paper
+    applications will not be accepted. 
+Applicants must complete all required registrations
+    before the application due date. Section
+    III. Eligibility Information contains information about registration.
+For assistance with your electronic application or for more information on the electronic submission
+    process, visit Applying
+    Electronically. If you encounter a system issue beyond your control that
+    threatens your ability to complete the submission process on-time, you must
+    follow the Guidelines
+    for Applicants Experiencing System Issues. For assistance with application
+    submission, contact the Application Submission Contacts in Section VII.
+Important
+    reminders:
+All PD(s)/PI(s) must include their eRA Commons ID in
+    the Credential field of the Senior/Key Person Profile Component of the
+    SF424(R&R) Application Package. Failure to register in the Commons
+    and to include a valid PD/PI Commons ID in the credential field will prevent
+    the successful submission of an electronic application to AHRQ. See Section III of this FOA for information on
+    registration requirements.
+The applicant organization must ensure that the DUNS
+    number it provides on the application is the same number used in the
+    organization’s profile in the eRA Commons and for the System for Award Management.
+    Additional information may be found in the SF424 (R&R) Application Guide.
+See more tips for avoiding common errors. 
+The applicant should pay particular attention to the
+    application guide instructions concerning letters of support (including web
+    link to the instructions). Letters of support, recommendation, or affirmation
+    from any entity or individual not directly participating in the project should
+    not be included.
+Upon receipt, applications will be evaluated for
+    completeness by the Center for Scientific Review, NIH and for responsiveness by
+    AHRQ.  Applications that are incomplete will not be reviewed.
+Institutional Review Board (IRB) approval of human subjects
+    is not required prior to peer review of an application (see https://grants.nih.gov/grants/guide/notice-files/NOT-HS-00-003.html).
+    However, initiation of IRB review, if necessary or applicable, is strongly
+    encouraged to assure timely commencement of research.
+Although there is no immediate acknowledgement of the
+    receipt of an application, applicants are generally notified of the review and
+    funding assignment within eight (8) weeks
+Post Submission Materials
+Applicants are required to follow the instructions for
+    post-submission materials, as described NOT-OD-17-066 via https://grants.nih.gov/grants/guide/notice-files/NOT-OD-17-066.html  Any instructions provided here are in addition to the instructions in the
+    policy.
+Priority Populations
+AHRQ supports research, evaluations, and demonstration
+    projects concerning the delivery of health care in inner-city and rural areas
+    (including frontier areas), and health care for priority populations. 
+    Priority populations include low income groups, minority groups, women,
+    children, the elderly, and individuals with special health care needs,
+    including individuals with disabilities and individuals who need chronic care
+    or end-of-life health care. 42 USC 299(c). Women and members of
+    minority groups are included in all AHRQ-supported research projects involving
+    human subjects, unless a clear and compelling rationale and justification is
+    provided that inclusion is inappropriate, e.g. because of the lack of
+    connection between the study and the health of women or particular
+    minorities.  Investigators should review the document entitled, “AHRQ
+    Policy on the Inclusion of Priority Populations,” which is available at https://grants.nih.gov/grants/guide/notice-files/NOT-HS-03-010.html.
+    Applicants under this FOA should consider and discuss including priority
+    populations in the research design as specified in this Notice.  
+Public Access to AHRQ-Funded Scientific Publications
+Investigators should review the document titled "AHRQ
+    Announces new Policy for Public Access to AHRQ-Funded Scientific Publications"
+    which is available at (http://grants.nih.gov/grants/guide/notice-files/NOT-HS-16-008.html). For
+    all research arising from AHRQ support, this policy requires that AHRQ-funded
+    authors submit an electronic version of the author’s final peer-reviewed
+    accepted manuscript to the National Library of Medicine's PubMed Central (PMC)
+    to be made publicly available within 12 months of the publisher’s date of
+    publication.
+Plan for Sharing Research Data
+The precise content of the data-sharing plan will vary,
+    depending on the data being collected and how the investigator is planning to
+    share the data. Applicants who are planning to share data should describe
+    briefly the expected schedule for data sharing; the format of the final
+    dataset; the documentation to be provided; whether or not any analytic tools
+    will be provided; whether or not a data-sharing agreement will be required and,
+    if so, a brief description of such an agreement (including the criteria for
+    deciding who can receive the data and whether or not any conditions will be
+    placed on their use); and the mode of data sharing (e.g., under its own
+    auspices by mailing a disk or posting data on its institutional or personal
+    website or through a data archive or enclave). Investigators choosing to share
+    under their own auspices may wish to enter into a data-sharing agreement.
+    References to data sharing may also be appropriate in other sections of the
+    application. 
+The reasonableness of the data sharing plan or the rationale
+    for not sharing research data will be assessed by the reviewers. However,
+    reviewers will not factor the proposed data sharing plan into the determination
+    of scientific merit or the priority score.
+Data Confidentiality
+The AHRQ confidentiality statute, 42 USC 299c-3(c), requires
+    that information that is obtained in the course of AHRQ supported activities
+    and that identifies individuals or establishments be used only for the purpose
+    for which it was supplied.  Information that is obtained in the course of
+    AHRQ-supported activities and that identifies an individual may be published or
+    released only with the consent of the individual who supplied the information
+    or is described in it.  There are civil monetary penalties for violation
+    of the confidentiality provision of the AHRQ statute. 42 USC 299c-3(d). In
+    the Human Subjects section of the application, applicants must describe
+    procedures for ensuring the confidentiality of the identifying information to
+    be collected.  The description of the procedures should include a
+    discussion of who will be permitted access to this information, both raw data
+    and machine readable files, and how personal identifiers and other identifying
+    or identifiable data will be restricted and safeguarded.  Identifiable
+    patient health information collected by grantees under this FOA will also be
+    obtained and managed in accordance with the HIPAA Privacy Rule, 45 CFR Parts
+    160 and 164.  
+The grantee should ensure that computer systems containing
+    confidential data have a level and scope of security that equals or exceeds
+    that established by the HIPAA Security Rules if applicable (see HIPAA website
+    in prior paragraph) and that established by the Office of Management and Budget
+    (OMB) in OMB Circular No. A-130, Appendix III - Security of Federal Automated
+    Information Systems. The applicability and intended means of applying these
+    confidentiality and security standards to subcontractors and vendors, if any,
+    should be addressed in the application. 
+Sharing Research Resources:  Rights in Data
+Unless otherwise provided in grant awards, AHRQ grantees may
+    copyright, or seek patents for, as appropriate, final and interim products and
+    materials developed in whole or in part with AHRQ support, including, but not
+    limited to, methodological tools, measures, software with documentation,
+    literature searches, and analyses.  Such copyrights and patents are
+    subject to a royalty-free, non-exclusive, and irrevocable AHRQ license to
+    reproduce, publish, use or disseminate for Federal purposes, and to authorize
+    others to do so. In accordance with AHRQ's research dissemination mandate, such
+    products and materials will be made available to the public and the health care
+    community. AHRQ purposes may include but are not limited to making project
+    materials, databases, results, and algorithms available for verification or
+    replication by other researchers.   Ordinarily, to accomplish
+    distribution, AHRQ publicizes research findings but relies on grantees to
+    publish research results in peer-reviewed journals and to market
+    grant-supported products.  AHRQ requests that grantees notify the Office
+    of Communications (OC) when an AHRQ-funded research article has been accepted for
+    publication in a peer-reviewed journal. Researchers should submit manuscripts
+    that have been accepted for publication in a peer-reviewed journal to JournalPublishing@ahrq.hhs.gov at least four to six weeks in advance of the journal’s expected publication
+    date.  
+
+
+Section V. Application Review Information
+
+ Important Update: See NOT-OD-18-228 for updated review language for due dates on or after January 25, 2019.
+
+1.
+    Criteria
+The mission of AHRQ is to produce evidence to make health
+    care safer, higher quality, more accessible, equitable, and affordable, and to
+    work with the U.S. Department of Health and Human Services (HHS) and other
+    partners to make sure that the evidence is understood and used.  
+AHRQ's
+    priority areas of focus are:
+
+ Research to improve health care patient safety.
+ Harnessing data and technology to improve health care quality and
+      patient outcomes and to provide a 360-degree view of the patient.
+ Research to increase accessibility and affordability of health
+      care by examining innovative market approaches to care delivery and financing.
+
+As part of this mission, applications submitted to AHRQ to
+    support health services research are evaluated for scientific and technical
+    merit through the AHRQ peer review system. 
+Applications that are complete and responsive to the FOA
+    will be evaluated for scientific and technical merit by an appropriate peer
+    review group convened in accordance with standard AHRQ peer review procedures
+    that are described in 42 CFR Part 67, Subpart A. Incomplete and/or
+    non-responsive applications or applications not following instructions given in
+    this FOA will not be reviewed. 
+As part of the initial merit review, all applications will:
+
+ Undergo a selection process in which only those applications
+      deemed to have the highest scientific merit will be discussed and assigned a
+      priority score;
+ Receive a written critique.
+ Merit Review Criteria:  Merit Review Criteria, as described
+      below, will be considered in the review process.
+
+For this particular announcement, note the following:
+The R03 small grant supports discrete, well-defined projects
+    that realistically can be completed in two years (or less) within the budget
+    constraints of the mechanism.  Because the research strategy section of
+    the application is limited to 6 pages, an R03 grant application may not contain
+    the same level of detail or extensive discussion as that found in an R01
+    application.  Accordingly, reviewers should evaluate the conceptual
+    framework and general approach to the problem.  Appropriate justification
+    for the proposed work can be provided through literature citations, data from
+    other sources, or from investigator-generated data.  Preliminary data are
+    not required, particularly in applications proposing pilot or feasibility
+    studies. 
+Overall Impact 
+Reviewers will provide an overall impact score to reflect
+    their assessment of the likelihood for the project to exert a sustained,
+    powerful influence on the research field(s) involved, in consideration of the
+    following review criteria and additional review criteria (as applicable for the
+    project proposed).
+Scored Review Criteria
+Reviewers will consider each of the review criteria below in
+    the determination of scientific merit, and give a separate score for each. An
+    application does not need to be strong in all categories to be judged likely to
+    have major scientific impact. For example, a project that by its nature is not
+    innovative may be essential to advance a field.
+Significance
+Does the project address an
+    important problem or a critical barrier to progress in the field? Is there a
+    strong scientific premise for the project? If the aims of the project are
+    achieved, how will scientific knowledge, technical capability, and/or clinical
+    practice be improved? How will successful completion of the aims change the
+    concepts, methods, technologies, treatments, services, or preventative
+    interventions that drive this field?   
+Investigator(s)
+Are the PD(s)/PI(s), collaborators,
+    and other researchers well suited to the project? If the project is collaborative
+    or multi-PD/PI, do the investigators have complementary and integrated
+    expertise; are their leadership approach, governance and organizational
+    structure appropriate for the project?    
+Innovation
+Does the application challenge and
+    seek to shift current research or clinical practice paradigms by utilizing
+    novel theoretical concepts, approaches or methodologies, instrumentation, or
+    interventions? Are the concepts, approaches or methodologies, instrumentation,
+    or interventions novel to one field of research or novel in a broad sense? Is a
+    refinement, improvement, or new application of theoretical concepts, approaches
+    or methodologies, instrumentation, or interventions proposed?    
+Approach
+Are the overall strategy,
+    methodology, and analyses well-reasoned and appropriate to accomplish the
+    specific aims of the project? Have the investigators presented strategies to
+    ensure a robust and unbiased approach, as appropriate for the work proposed? Are
+    potential problems, alternative strategies, and benchmarks for success
+    presented? If the project is in the early stages of development, will the
+    strategy establish feasibility and will particularly risky aspects be managed? Have
+    the investigators presented adequate plans to address human subjects?  
+If the project involves human
+    subjects and/or clinical research, are the plans to address 1) the protection
+    of human subjects from research risks, and 2) inclusion (or exclusion) of
+    individuals on the basis of sex/gender, race, and ethnicity, as well as AHRQ's
+    Priority Populations justified in terms of the scientific goals and research
+    strategy proposed?   
+Environment
+Will the scientific environment in
+    which the work will be done contribute to the probability of success? Are the
+    institutional support, equipment and other physical resources available to the
+    investigators adequate for the project proposed? Will the project benefit from
+    unique features of the scientific environment, subject populations, or
+    collaborative arrangements?    
+Additional Review Criteria
+As applicable for the project proposed, reviewers will
+    evaluate the following additional items while determining scientific and
+    technical merit, and in providing an overall impact score, but will not give
+    separate scores for these items.
+Protections for Human Subjects
+For research that involves human
+    subjects but does not involve one of the six categories of research that are
+    exempt under 45 CFR Part 46, the committee will evaluate the justification for
+    involvement of human subjects and the proposed protections from research risk
+    relating to their participation according to the following five review
+    criteria: 1) risk to subjects, 2) adequacy of protection against risks, 3)
+    potential benefits to the subjects and others, 4) importance of the knowledge to
+    be gained, and 5) data and safety monitoring for clinical trials.
+For research that involves human
+    subjects and meets the criteria for one or more of the six categories of
+    research that are exempt under 45 CFR Part 46, the committee will evaluate: 1) the
+    justification for the exemption, 2) human subjects involvement and
+    characteristics, and 3) sources of materials. For additional information on
+    review of the Human Subjects section, please refer to the Guidelines for the Review of Human
+    Subjects via https://www.hhs.gov/ohrp/regulations-and-policy/regulations/45-cfr-46/index.html ..
+Degree of Responsiveness
+Reviewers will assess how well the application addresses the
+    purpose and objectives of this FOA. How responsive is the application to the
+    special eligibility criteria, including the project requirements, noted in the
+    FOA? 
+Budget and Period of Support
+The committee will evaluate whether the proposed budget is
+    reasonable, and whether the requested period of support is appropriate in
+    relation to the proposed research. 
+Inclusion of Priority Populations 
+Reviewers will assess the adequacy of plans to address the
+    needs of both genders, racial and ethnic minorities (and subgroups). 
+    Reviewers will assess the adequacy of attention to AHRQ priority populations
+    (see above discussion on Priority Populations in section IV.7 “Other Submission
+    Requirements”).
+Resubmissions
+For Resubmissions, the committee
+    will evaluate the application as now presented, taking into consideration the
+    responses to comments from the previous scientific review group and changes
+    made to the project. 
+Renewals
+For Renewals, the committee will
+    consider the progress made in the last funding period. 
+Revisions
+For Revisions, the committee will
+    consider the appropriateness of the proposed expansion of the scope of the
+    project. If the Revision application relates to a specific line of
+    investigation presented in the original application that was not recommended
+    for approval by the committee, then the committee will consider whether the
+    responses to comments from the previous scientific review group are adequate
+    and whether substantial changes are clearly evident.
+Additional Review Considerations
+As applicable for the project proposed, reviewers will
+    consider each of the following items, but will not give scores for these items,
+    and should not consider them in providing an overall impact score.
+ Not applicable.   
+2. Review and Selection
+    Process 
+Applications will be evaluated for scientific and technical
+    merit by an appropriate Scientific Review Group in accordance with the stated review criteria. Assignment to a Scientific Review
+    Group will be shown in the eRA Commons
+As part of the scientific peer review, all applications:
+
+ May undergo a selection process in which only those applications
+      deemed to have the highest scientific and technical merit (generally the top
+      half of applications under review) will be discussed and assigned an overall impact
+      score. 
+ Will receive a written critique.
+
+Applications will
+    compete for available funds with all other recommended applications submitted
+    in response to this FOA.
+The following will be considered in making funding
+    decisions: 
+
+ Scientific and technical merit of the proposed project as
+      determined by scientific peer review. 
+ Availability of funds. 
+ Responsiveness to goals and objectives of the FOA.
+ Relevance and fit within AHRQ research priorities, as well as
+      overall programmatic and geographic balance of the proposed project to program
+      priorities.
+
+3. Anticipated Announcement and Award Dates
+After the peer review of the application is completed, the
+    PD/PI will be able to access his or her Summary Statement (written critique)
+    via the eRA
+    Commons. Refer to Part 1 for dates for peer review, advisory council
+    review, and earliest start date.
+
+    Information regarding the disposition of applications is available in the HHS
+    Grants Policy Statement (see https://www.ahrq.gov/funding/policies/hhspolicy/index.html).
+Section VI. Award
+    Administration Information
+1. Award Notices
+If the application is under consideration for funding, AHRQ
+    will request "Just-In-Time" information from the applicant. 
+    Just-In-Time information generally consists of information on other support,
+    any additional information necessary to address administrative and budgetary
+    issues, and certification of IRB approval of the project's proposed use of
+    human subjects.  For details regarding IRB approval, applicants may refer
+    to the "AHRQ Revised Policy for Institutional Review Board (IRB) Review of
+    Human Subjects Protocols in Grant Applications" (https://grants.nih.gov/grants/guide/notice-files/not-hs-00-003.html). 
+
+    If all administrative and programmatic issues are resolved, a formal
+    notification in the form of a Notice of Award (NoA) will be provided to the
+    applicant organization for successful applications. The NoA signed by the AHRQ
+    grants management officer is the authorizing document and will be sent via
+    email to the e-mail address designated by the recipient organization during the
+    eRA Commons registration process. 
+
+    Awardees must comply with any funding restrictions described in Section  IV.6. Funding Restrictions.
+    Selection of an application for award is not an authorization to begin
+    performance. Any costs incurred before receipt of the NoA are at the
+    recipient's risk. These costs may be reimbursed only to the extent considered
+    allowable pre-award costs.       
+
+    Any application awarded in response to this FOA will be subject to the DUNS,
+    SAM Registration, and Transparency Act requirements as noted on the AHRQ web
+    site at https://www.ahrq.gov/funding/grant-mgmt/index.html.
+      
+2. Administrative and
+    National Policy Requirements
+All
+    AHRQ grant and cooperative agreement awards are subject to HHS’s “Uniform
+    Administrative Requirements, Cost Principles, and Audit Requirements for HHS
+    Awards,” (http://www.ecfr.gov/cgi-bin/text-idx?node=pt45.1.75), the HHS
+    Grants Policy Statement (see http://www.ahrq.gov/funding/policies/hhspolicy/index.html), and the
+    terms and conditions set forth in the Notice of  Award (NoA). As
+    necessary, additional Terms and Conditions will be incorporated into the NoA.
+A standard term and condition of award will be included in
+    the Notice of Award (NoA) that states:  “in any grant-related activity in
+    which family, marital, or household consideration are, by statute or
+    regulation, relevant for purposes of determining beneficiary eligibility or
+    participation, grantees must treat same-sex spouses, marriages, and households
+    on the same terms as opposite-sex spouses, marriages, and households,
+    respectively. By “same-sex spouses,” HHS means individuals of the same sex who
+    have entered into marriages that are valid in the jurisdiction where performed,
+    including any of the 50 states, the District of Columbia, or a U.S. territory
+    or in a foreign country, regardless of whether or not the couple resides in a
+    jurisdiction that recognizes same-sex marriage.  By “same-sex marriages,”
+    HHS means marriages between two individuals validly entered into in the
+    jurisdiction where performed, including any of the 50 states, the District of
+    Columbia, or a U.S. territory or in a foreign country, regardless of whether or
+    not the couple resides in a jurisdiction that recognizes same-sex
+    marriage.  By “marriage,” HHS does not mean registered domestic
+    partnerships, civil unions or similar formal relationships recognized under the
+    law of the jurisdiction of celebration as something other than a marriage.”
+All applicants will be subject to a term and condition that
+    applies the terms of 48 CFR section 3.908 to the award, and requires that
+    grantees inform their employees in writing of employee whistleblower rights and
+    protections under 41U.S.C. 4712 in the predominant native language of the
+    workforce.
+Recipients of federal financial assistance (FFA) from HHS
+    must administer their programs in compliance with federal civil rights law.
+    This means that recipients of HHS funds must ensure equal access to their
+    programs without regard to a person’s race, color, national origin, disability,
+    age and, in some circumstances, sex and religion. This includes ensuring your
+    programs are accessible to persons with limited English proficiency.  HHS
+    recognizes that research projects are often limited in scope for many reasons
+    that are nondiscriminatory, such as the Principal Investigator’s scientific
+    interest, funding limitations, recruitment requirements, and other
+    considerations. Thus, criteria in research protocols that target or exclude
+    certain populations are warranted where nondiscriminatory justifications
+    establish that such criteria are appropriate with respect to the health or
+    safety of the subjects, the scientific study design, or the purpose of the
+    research.
+For additional guidance regarding how the provisions apply
+    to AHRQ grant programs, please contact the Scientific/Research Contact that is
+    identified in Section VII under Agency Contacts of this FOA. HHS provides
+    general guidance to recipients of FFA on meeting their legal obligation to take
+    reasonable steps to provide meaningful access to their programs by persons with
+    limited English proficiency. Please see https://www.hhs.gov/civil-rights/for-individuals/special-topics/limited-english-proficiency/fact-sheet-guidance/index.html.
+    The HHS Office for Civil Rights also provides guidance on complying with civil
+    rights laws enforced by HHS. Please see http://www.hhs.gov/ocr/civilrights/understanding/section1557/index.html;
+    and https://www.hhs.gov/civil-rights/index.html Recipients of FFA also have specific legal obligations for serving qualified
+    individuals with disabilities. Please see https://www.hhs.gov/civil-rights/for-individuals/disability/.
+    l. Please contact the HHS Office for Civil Rights for more information about
+    obligations and prohibitions under federal civil rights laws at https://www.hhs.gov/ocr/about-us/contact-us/index.html o or call 1-800-368-1019 or TDD 1-800-537-7697. Also note it is an HHS
+    Departmental goal to ensure access to quality, culturally competent care,
+    including long-term services and supports, for vulnerable populations. 
+For further guidance on providing culturally and
+    linguistically appropriate services, recipients should review the National
+    Standards for Culturally and Linguistically Appropriate Services in Health and
+    Health Care at https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=2&lvlid=53.
+In accordance with the statutory provisions contained in
+    Section 872 of the Duncan Hunter National Defense Authorization Act of Fiscal
+    Year 2009 (Public Law 110-417), AHRQ awards will be subject to the Federal
+    Awardee Performance and Integrity Information System (FAPIIS) requirements.
+    FAPIIS requires Federal award making officials to review and consider
+    information about an applicant in the designated integrity and performance
+    system (currently FAPIIS) prior to making an award. An applicant, at its
+    option, may review information in the designated integrity and performance
+    systems accessible through FAPIIS and comment on any information about itself
+    that a Federal agency previously entered and is currently in FAPIIS. The
+    Federal awarding agency will consider any comments by the applicant, in
+    addition to other information in FAPIIS, in making a judgment about the
+    applicant’s integrity, business ethics, and record of performance under Federal
+    awards when completing the review of risk posed by applicants as described in
+    45 CFR Part 75.205 “Federal awarding agency review of risk posed by
+    applicants.”  This provision will apply to all AHRQ grants and cooperative
+    agreements except fellowships.
+3. Reporting
+When multiple years are involved, awardees will be required
+    to submit the Research
+    Performance Progress Report (RPPR) annually unless specified otherwise in
+    the terms of the award.   
+For details regarding annual progress report submission,
+    refer to https://www.ahrq.gov/funding/grant-mgmt/noncomp.html.
+     If instructions on the AHRQ website are different from the RPPR
+    Instructions, follow the instructions on the AHRQ website. Annual progress
+    reports are due 3 months before the anniversary of the award. In addition to
+    the annual progress report, recipients may be required to submit quarterly
+    progress reports to AHRQ. If applicable, detailed instructions on additional
+    reporting requirements will be provided with the grant award.
+Grantees are required to submit expenditure data on the
+    Federal Financial Report (FFR; SF 425) annually.
+Expenditure data is to be reported on the Federal Financial
+    Report (FFR; SF 425). AHRQ requires annual financial expenditure reports for
+    ALL grant programs as described in the HHS Grants Policy Statement
+    (https://www.ahrq.gov/funding/policies/hhspolicy/index.html). AHRQ
+    implementation of the FFR retains a financial reporting period that coincides
+    with the budget period of a particular project.  However, the due date for
+    annual FFRs is 90 days after the end of the calendar quarter in which the
+    budget period ends.  For example, if the budget period ends 4/30/2018, the
+    annual FFR is due 9/30/2018 (90 days after the end of the calendar quarter of
+    6/30/2018).
+A final Progress Report, final Federal Financial Report, and
+    Final Invention Statement are required when an award ends.  All final
+    reports are due within 90 days of the project period end date.  For
+    further details regarding grant closeout requirements, refer https://www.ahrq.gov/funding/grant-mgmt/closeout.html. 
+The Federal Funding Accountability and Transparency Act of
+    2006 (Transparency Act), includes a requirement for awardees of Federal grants
+    to report information about first-tier subawards and executive compensation
+    under Federal assistance awards issued in FY2011 or later.  All awardees
+    of applicable AHRQ grants and cooperative agreements are required to
+    report to the Federal Subaward Reporting System (FSRS) available at www.fsrs.gov on all subawards over $25,000. See the HHS Grants Policy Statement (https://www.ahrq.gov/funding/policies/hhspolicy/index.html)
+    for additional information on this reporting requirement.
+In accordance with the regulatory requirements provided at
+    45 CFR 75.113 and Appendix XII to 45 CFR Part 75, recipients that have
+    currently active Federal grants, cooperative agreements, and procurement
+    contracts from all Federal awarding agencies with a cumulative total value
+    greater than $10,000,000 for any period of time during the period of
+    performance of a Federal award, must report and maintain the currency of
+    information reported in the System for Award Management (SAM) about civil,
+    criminal, and administrative proceedings in connection with the award or
+    performance of a Federal award that reached final disposition within the most
+    recent five-year period.  The recipient must also make semiannual
+    disclosures regarding such proceedings. Proceedings information will be
+    made publicly available in the designated integrity and performance system
+    (currently FAPIIS).  This is a statutory requirement under section 872 of
+    Public Law 110-417, as amended (41 U.S.C. 2313).  As required by section
+    3010 of Public Law 111-212, all information posted in the designated integrity
+    and performance system on or after April 15, 2011, except past performance
+    reviews required for Federal procurement contracts, will be publicly available. 
+    Full reporting requirements and procedures are found in Appendix XII to 45 CFR
+    Part 75 – Award Term and Conditions for Recipient Integrity and Performance
+    Matters.
+Section VII. Agency Contacts
+We encourage inquiries concerning this funding opportunity
+    and welcome the opportunity to answer questions from potential applicants. 
+
+
+Application Submission Contacts
+eRA Service Desk (Questions regarding ASSIST, eRA Commons
+    registration, submitting and tracking an application, documenting system
+    problems that threaten submission by the due date, post submission issues)
+    Finding Help Online: http://grants.nih.gov/support/ (preferred method of contact)
+    Telephone: 301-402-7469 or 866-504-9552 (Toll Free) 
+Grants.gov
+    Customer Support (Questions
+    regarding Grants.gov registration and submission, downloading forms and
+    application packages)
+    Contact Center Telephone: 800-518-4726 
+    Email: support@grants.gov 
+GrantsInfo
+    (Questions regarding application instructions and process, finding NIH grant
+    resources)
+    Email: GrantsInfo@nih.gov (preferred method
+    of contact)
+    Telephone: 301-945-7573
+
+
+Scientific/Research Contact(s)
+ Direct your questions regarding
+    program matters to the AHRQ staff by specific program and portfolio area, which
+    can be found at: http://www.ahrq.gov/funding/priorities-contacts/contacts/index.html.
+Peer Review Contact(s)
+Direct your questions about peer review issues of grant
+    application made in response to this FOA to:
+Division of Scientific Review
+Office of Extramural Research, Education, and Priority Populations
+Agency for Healthcare Research and Quality
+Email: DSR@ahrq.hhs.gov
+Financial/Grants Management Contact(s)
+Direct your questions regarding fiscal matters to:
+Office of Management Services 
+    Division of Grants Management
+    Agency for Healthcare Research and Quality (AHRQ)
+    Email address: GMI@ahrq.hhs.gov
+Section VIII. Other
+    Information
+Recently issued AHRQ policy notices may affect your
+    application submission. A full list of policy notices published by AHRQ is
+    provided at https://www.ahrq.gov/funding/policies/polnotice/index.html. 
+Authority and Regulations
+This program is described in the Catalog of Federal Domestic
+    Assistance at http://www.cfda.gov/ and is
+    not subject to the intergovernmental review requirements of Executive Order
+    12372 or Health Systems Agency review. Awards are made under the authority of
+    
+    42 USC 299 et seq., and in accordance with 45 CFR Part 75 and other referenced
+    applicable statutes and regulations.  All awards are subject to the terms
+    and conditions, cost principles, and other considerations described in the HHS
+    Grants Policy Statement. The HHS Grants Policy Statement can be found at http://www.ahrq.gov/fund/hhspolicy.htm.
+
+
+
+
+
+
+
+Weekly TOC for this Announcement
+NIH Funding Opportunities and Notices
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+Department of Health
+      and Human Services (HHS)
+
+
+  
+
+
+
+ NIH... Turning Discovery Into Health® 
+
+
+
+
+
+Note: For help accessing PDF, RTF, MS Word, Excel, PowerPoint, Audio or Video files, see Help Downloading Files.
+
+
+
+
+
